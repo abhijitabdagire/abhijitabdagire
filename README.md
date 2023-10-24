@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhijit Abdagire</h1>
-<h3 align="center">I'm a Front End Web Developer and I am Passionate about designing & implementing the visual and interactive element of website.</h3>
+<h3 align="center">I'm a Full Stack Web Developer and I am Passionate about designing & implementing the visual and interactive element of website.</h3>
 
 - 🌱 I’m currently learning **Backend , DS/Algo , Competitive Programming**
 
-- 💬 Ask me about **Front-end Development**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **abhijitabdagire1303@gmail.com**
 
